@@ -1,3 +1,3 @@
 ### dataScience
 
-#some data science learning work
+some data science learning work
