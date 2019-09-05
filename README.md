@@ -11,8 +11,11 @@ Regression: numerical data
 ### Classification
 
 KNN: using numerical data to predict a categorical variable
+
 Decision Tree: Using any data to predict categorical data
+
 Logistic Regression: Using data to predict categorical data (0/1)
+
 SVM: Like KNN but lets you split categorical data into different dimensions
      instead of using distance of each point. Groups features using non-linear
      lines.
@@ -28,3 +31,7 @@ Uses: 1. summary generation
 K-Means (Partition Based): Used for medium and large sized data sets. Group
         specific features into clusters (bucket). Use numerical data to bucket
         users.
+Agglomerative algorithm (Hierarical clustering): used for small data sets usually.
+        1. doesnt require number of clusters to be specified
+        2. east to implement
+        3. long run time
